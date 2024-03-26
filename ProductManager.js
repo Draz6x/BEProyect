@@ -2,9 +2,10 @@ const nstock1 = 25;
 const nstock2 = 5;
 const nstock3 = 50;
 const nstock4 = 60;
-const c1 = "X";
-const c2 = "X";
-const c3 = "X";
+const P1 = "10000";
+const P2 = "20000";
+const P3 = "30000";
+const P4 = "40000";
 
 class ProductManager {
     static quantity = 0;
@@ -22,23 +23,25 @@ class ProductManager {
       ?  console.log("ingrese texto")
       : ProductManager.#product.push(product) && ProductManager.quantity++;   
       
-      const cadenasYnumeros = { c1, c2, c3, nstock1, nstock2, nstock3};  
+      
     }
+   
     read(){
         return ProductManager.#product
     }
-   
+    
 }
+ 
 const notes = new ProductManager();
     notes.create({text: "Whyskey Jack D. Black Label"});
     notes.create({text: "Whyskey Jack D. Red Label"});
     notes.create({text: "Whyskey Jack D. Blue Label"});
     notes.create({text: "Whyskey Jack D. Green Label"});
      
-    console.log(cadenasYnumeros);
+    
 console.log(notes.read());
-
-   
+const preciosYstock = { P1, P2, P3, P4, nstock1, nstock2, nstock3, nstock4} 
+console.log(preciosYstock);
 //console.log(NoteManager.#notes);
 
 /*Conjunto de objetos
