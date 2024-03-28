@@ -2,10 +2,6 @@ const MailID1 = "jperez@coder.cl";
 const MailID2 = "dcaro@coder.cl";
 const MailID3 = "jnavarro@coder.cl";
 const MailID4 = "tfuenzalida@coder.cl";
-const PassID1 = "123456789";
-const PassID2 = "123456";
-const PassID3 = "1234";
-const PassID4 = "abcdefg";
 
 const crypto = require("crypto");
 
