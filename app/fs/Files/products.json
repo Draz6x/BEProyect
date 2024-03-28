@@ -1,0 +1,82 @@
+[ 
+    {
+    "id": "76d936e4473aaba98ffa0e74",
+    "photo": "img1.jpg",
+    "title": "Whisky Jack D. Black Label",
+    "category": "Whisky",
+    "price": 25000,
+    "stock": 50
+    },
+    {   
+    "id": "c00561c6a434f5a54d19fb38",
+    "photo": "img2.jpg",
+    "title": "Whisky Jack D. Blue Label",
+    "category": "Whisky",
+    "price": 207000,
+    "stock": 80
+    },
+    {   
+    "id": "fb509491ade4a07616d7c82a",
+    "photo": "img3.jpg",
+    "title": "Whisky Jack D. red Label",
+    "category": "Whisky",
+    "price": 60000,
+    "stock": 25
+    },
+    {
+    "id": "69f487cbfa48103db4213f22",
+    "photo": "img4.jpg",
+    "title": "Whisky Jack D. Green Label",
+    "category": "Whisky",
+    "price": 75000,
+    "stock": 40
+    },
+    {
+    "id": "fc4bd379444ba9b3a251457e",
+    "photo": "img5.jpg",
+    "title": "Vino Casillero del diablo etiqueta negra",
+    "category": "Vinos",
+    "price": 17000,
+    "stock": 56
+    },
+    {
+    "id": "1d16f97d9e9cb9c8ce757ba6",
+    "photo": "img6.jpg",
+    "title": "Vino Adobe Merlot",
+    "category": "Vinos",
+    "price": 5500,
+    "stock": 20
+    },
+    {
+    "id": "4be3c6f009bebef8ca2ecfff",
+    "photo": "img7.jpg",
+    "title": "Ron Barcelo añejado en roble",
+    "category": "Destilados",
+    "price": 8000,
+    "stock": 30
+    },
+    {
+    "id": "d5c4cd4642b7889879b2e19d",
+    "photo": "img8.jpg",
+    "title": "Pack Vasos Shoperos 6",
+    "category": "Accesorios",
+    "price": 15000,
+    "stock": 10
+    },
+    {
+    "id": "6595b10dc8808938a54d575a",
+    "photo": "img9.jpg",
+    "title": "Pack 6 vasos de Whisky",
+    "category": "Accesorios",
+    "price": 18000,
+    "stock": 5
+    },
+    {
+    "id": "90968f76e88a1612da69a5ef",    
+    "photo": "img10.jpg",
+    "title": "Shopero 1 liro",
+    "category": "Accesorios",
+    "price": 12000,
+    "stock": 8
+    }
+    ]

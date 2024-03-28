@@ -1,0 +1,30 @@
+[
+    {
+      "id": "70f2ec13a4c5e74f6145ebc6",
+      "photo": "img1.jpg",
+      "email": "jperez@coder.com",
+      "password": "12345678",
+      "role": "User"
+    },
+    {
+      "id": "8cd14c441c157d91f9047f15",
+      "photo": "img2.jpg",
+      "email": "dcaro@coder.com",
+      "password": "123abc456",
+      "role": "User"
+    },
+    {
+      "id": "2115d353771ea2fafabcce62",
+      "photo": "img3.jpg",
+      "email": "jnavarro@coder.cl",
+      "password": "a1b2c3",
+      "role": "User"
+    },
+    {
+      "id": "eaa1810fffb2c0c88a825aef",
+      "photo": "img4.jpg",
+      "email": "tfuenzalida@coder.com",
+      "password": "1a2b3c4d",
+      "role": "admin"
+    }
+  ]
